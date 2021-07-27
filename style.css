@@ -1,0 +1,66 @@
+html {
+    font-size: 62.5%;
+  }
+
+header{
+    display:flex;
+    width: 95%;
+    height: 90px;
+    background-color: black;
+    background-image: url("file:///C:/Users/%E6%9D%89%E5%B1%B1%E6%B9%8A/Pictures/noroi.png");
+    color: white;
+    font-family: "07ふぉんとうは怖い明朝体";
+    font-size: 40px;
+}
+
+.title1{
+    text-align: center;
+}
+
+.text{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 100%;
+  }
+
+h2{
+    font-size: 20px;
+}
+
+body{
+    background-color: black;
+    background-image: url("file:///C:/Users/%E6%9D%89%E5%B1%B1%E6%B9%8A/Downloads/14.jpg");
+    color: white;
+    font-family: "07ふぉんとうは怖い明朝体";
+    font-size: 15px;
+    }
+
+.box{
+    width:95%;
+    margin: 30px;
+    border : solid 1px #ffffff ; 
+    border-bottom:
+    background-color: black;
+    background-image: url("file:///C:/Users/%E6%9D%89%E5%B1%B1%E6%B9%8A/Downloads/aaa.jpg");
+    
+}
+
+    @page{margin:0;size:landscape;font-family: "MS PGothic";}
+    body{background-color:#750202;font-size:17px;}
+.name{color:rgb(25, 0, 255);text-decoration:underline blue;font-weight:bold;}
+.milisec{color:slategray;font-size:14px;}
+.threadtitle{font-size:21px;font-weight:bold;color:red;}
+.go{color:blue;text-decoration:underline blue;}
+.con{padding-left:40px;}.log{font-size:18px;color:red;}
+.res{color:blue;font-size:18px;}
+
+.noroi{
+      color: rgb(151, 4, 4);
+}
+.name1{color:rgb(151, 4, 4);text-decoration:unrgba(255, 0, 0, 0.555)ine rgb(151, 4, 4);font-weight:bold;}
+.milisec1{color:rgb(151, 4, 4);font-size:14px;}
+
+
