@@ -7,7 +7,7 @@ header{
     width: 95%;
     height: 90px;
     background-color: black;
-    background-image: url"https://github.com/mintFJ/Fj1cbunnkasai/blob/main/noroi.png?raw=true";
+    background-image: url="https://github.com/mintFJ/Fj1cbunnkasai/blob/main/noroi.png?raw=true";
     color: white;
     font-family: "07ふぉんとうは怖い明朝体";
     font-size: 40px;
@@ -32,7 +32,7 @@ h2{
 
 body{
     background-color: black;
-    background-image: url"https://github.com/mintFJ/Fj1cbunnkasai/blob/main/14.jpg?raw=true";
+    background-image: url="https://github.com/mintFJ/Fj1cbunnkasai/blob/main/14.jpg?raw=true";
     color: white;
     font-family: "07ふぉんとうは怖い明朝体";
     font-size: 15px;
@@ -44,7 +44,7 @@ body{
     border : solid 1px #ffffff ; 
     border-bottom:
     background-color: black;
-    background-image: url"https://github.com/mintFJ/Fj1cbunnkasai/blob/main/aaa.jpg?raw=true";
+    background-image: url="https://github.com/mintFJ/Fj1cbunnkasai/blob/main/aaa.jpg?raw=true";
     
 }
 
