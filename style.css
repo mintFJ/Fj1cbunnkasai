@@ -59,6 +59,7 @@ body{
 
 .noroi{
       color: rgb(151, 4, 4);
+    text-shadow:1px 0 5px black;
 }
 .name1{color:rgb(151, 4, 4);text-decoration:unrgba(255, 0, 0, 0.555)ine rgb(151, 4, 4);font-weight:bold;}
 .milisec1{color:rgb(151, 4, 4);font-size:14px;}
